@@ -5,3 +5,6 @@
 ##### H5 Header
 ###### H6 Header
 normal text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Stock image](https://picsum.photos/200/300)
